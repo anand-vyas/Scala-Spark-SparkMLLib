@@ -1,2 +1,2 @@
 # Scala-Spark-SparkMLLib
-Flight delay prediction using Scala, Spark and SparkMLlib
+Flight delay prediction using Scala, Spark and SparkMLLib
